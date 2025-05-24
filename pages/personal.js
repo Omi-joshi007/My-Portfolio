@@ -1,12 +1,14 @@
+import Link from 'next/link';
+
 export default function Personal() {
     return (
       <div className="container">
         <header>
           <nav>
             <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/about">About Me</a></li>
-              <li><a href="/tech">Tech Blog</a></li>
+              <li><Link href="/">Home</Link></li>
+              <li><Link href="/about">About Me</Link></li>
+              <li><Link href="/tech">Tech Blog</Link></li>
             </ul>
           </nav>
         </header>
