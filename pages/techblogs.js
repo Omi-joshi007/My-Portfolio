@@ -57,14 +57,14 @@ const projectData = [
     title: "Are we outsourcing our mind by depending too much on ChatGPT ?",
     //description: ,
     //tag: "Spatial Data Science",
-    img: "/techblog1.png",
+    img: "./techblog1.png",
     link: "https://medium.com/@joshiomkar869/are-we-outsourcing-our-mind-by-depending-too-much-on-chatgpt-9c8959fea82b"
   },
   {
     title: "Why I love and also hate NetCDF file format ?",
     //description: "Analytics Summary",
     //tag: "Machine Learning",
-    img: "/techblog2.png",
+    img: "./techblog2.png",
     link: "https://medium.com/@joshiomkar869/why-i-love-and-also-hate-netcdf-file-format-fe5ae3c45205"
   },
   
