@@ -41,7 +41,7 @@ export default function Home() {
     <Layout>
       <div className={styles.hero}>
         <Image
-          src="/Omkar_Photo.jpg"
+          src="/omkar.jpg"
           alt="My Profile"
           width={450}
           height={450}
